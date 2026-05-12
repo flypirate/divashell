@@ -1,6 +1,6 @@
 *This project has been created as part of the 42 curriculum by acarbajo, albegar2.*
 
-# Minishell
+# 😈Divashell
 
 ## Description
 
